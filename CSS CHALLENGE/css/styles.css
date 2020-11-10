@@ -1,0 +1,99 @@
+.top-container{
+  background-color: #E4F9F5;
+  padding-top: 100px;
+
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1em;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+h2{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  font-size: 2.5rem;
+  margin-top: 0;
+}
+p{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+}
+
+
+.pro{
+  text-decoration: underline;
+}
+.first-img{
+
+  position: absolute;
+  right: 300px;
+  top: 60px;
+}
+/*
+img{
+  position: relative;
+   mmm
+
+
+  left: 30px;
+  bottom: 10px;
+}
+*/
+.mountain{
+  text-align: center;
+  position: relative;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+
+}
+.arya-img:hover{
+  background: linear-gradient(to left, #00FFEC, lightyellow 50%, #FF9200 100%);
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+}
+.computer-img{
+  border-radius: 100%;
+}
+.code{
+  width: 400px;
+  height: 400px;
+}
+.react{
+  margin-right: 30px;
+  width: 200px;
+  height: 200px;
+}
+.angular{
+  margin-left: 30px;
+  margin-right: 30px;
+  width: 200px;
+  height: 200px;
+}
+.node{
+  margin-left: 30px;
+  margin-right: 30px;
+  width: 200px;
+  height: 200px;
+}
+.code-it{
+  width: 300px;
+  height: 300px;
+
+}
+.padding-div{
+  padding-top: 60px;
+}
