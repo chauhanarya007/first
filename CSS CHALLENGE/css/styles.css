@@ -1,44 +1,54 @@
-.top-container{
+.top-container {
   background-color: #E4F9F5;
   padding-top: 100px;
-
+  
 }
 
-body{
+body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
   font-size: 1em;
 }
 
-h1{
+h1 {
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
   font-size: 5.625rem;
+  color: #66BFBF;
 }
-h2{
+
+h2 {
   text-align: center;
   font-family: 'Montserrat', sans-serif;
-  font-weight: bolder;
+  font-weight: normal;
   font-size: 2.5rem;
   margin-top: 0;
+  color: #66BFBF;
 }
-p{
+
+h3 {
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+p {
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   font-weight: bolder;
 }
 
-
-.pro{
+.pro {
   text-decoration: underline;
 }
-.first-img{
 
+.first-img {
   position: absolute;
   right: 300px;
   top: 60px;
 }
+
 /*
 img{
   position: relative;
@@ -49,51 +59,56 @@ img{
   bottom: 10px;
 }
 */
-.mountain{
+.mountain {
   text-align: center;
   position: relative;
-
 }
 
-.bottom-cloud{
+.bottom-cloud {
   position: absolute;
-
 }
-.arya-img:hover{
+
+.arya-img:hover {
   background: linear-gradient(to left, #00FFEC, lightyellow 50%, #FF9200 100%);
   border-radius: 100%;
   width: 200px;
   height: 200px;
 }
-.computer-img{
+
+.computer-img {
   border-radius: 100%;
 }
-.code{
+
+.code {
   width: 400px;
   height: 400px;
 }
-.react{
+
+.react {
   margin-right: 30px;
   width: 200px;
   height: 200px;
 }
-.angular{
+
+.angular {
   margin-left: 30px;
   margin-right: 30px;
   width: 200px;
   height: 200px;
 }
-.node{
+
+.node {
   margin-left: 30px;
   margin-right: 30px;
   width: 200px;
   height: 200px;
 }
-.code-it{
+
+.code-it {
   width: 300px;
   height: 300px;
-
 }
-.padding-div{
+
+.padding-div {
   padding-top: 60px;
 }
