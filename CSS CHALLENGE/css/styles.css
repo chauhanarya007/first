@@ -5,7 +5,7 @@
 }
 hr{
     border-style: none;
-    height: 00px;
+    height: 0;
     width: 4.75%;
     border-top-style: dotted;
     border-color: lightgrey;
@@ -45,7 +45,7 @@ a{
   padding-left: 20px;
   padding-right: 20px;
   font-weight: bolder;
-  margin-top: 0px;
+  margin-top: 0;
   font-family: 'Montserrat', sans-serif;
   text-decoration: none;
 }
@@ -72,8 +72,6 @@ p {
 img{
   position: relative;
    mmm
-
-
   left: 30px;
   bottom: 10px;
 }
@@ -169,7 +167,7 @@ img{
    color: #FFFFFF;
    font-family: 'Montserrat', sans-serif;
    font-size: 20px;
-   font-weight: 560;
+   font-weight: 500;
    padding: 10px;
    border: solid #66BFBF 1px;
    text-decoration: none;
